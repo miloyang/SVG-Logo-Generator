@@ -1,6 +1,6 @@
-const { Circle, Triangle, Square } = require('./lib/shapes')
-const inquirer = require('inquirer')
-const fs = require('fs')
+const { Circle, Triangle, Square } = require('./lib/shapes');
+const inquirer = require('inquirer');
+const fs = require('fs');
 
 inquirer.prompt([
     {
@@ -41,5 +41,5 @@ inquirer.prompt([
     fs.writeFile('logo.svg', user.render(), (err, res) => {
         if (err) throw err;
         console.log('Your SVG logo has been created!');
-    })
-})
+    });
+});
