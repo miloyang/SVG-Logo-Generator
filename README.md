@@ -28,7 +28,7 @@ Below is a screenshot of what you should see in SVG Viewer:
 ![Screenshot of SVG Viewer example](assets/images/SVG-viewer-screenshot.png)
 
 Below is a link to a walkthrough video to assist with how to use the application:
-[Click here for the walkthrough video]( https://drive.google.com/file/d/1aMU7cN8cAIz_Bstxsr0-7BjRGD3RcYjD/view)
+[Click here for the walkthrough video](https://drive.google.com/file/d/1C88JpOz78GJ_r7KpxK9IeeQvKA_HR9Ci/view)
 
 ## Credits
 
