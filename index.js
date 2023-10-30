@@ -40,6 +40,6 @@ inquirer.prompt([
 
     fs.writeFile('logo.svg', user.render(), (err, res) => {
         if (err) throw err;
-        console.log('logo created!');
+        console.log('Your SVG logo has been created!');
     })
 })
